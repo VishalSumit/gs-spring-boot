@@ -33,7 +33,7 @@ infrastructure.
 
 The following examples show what Spring Boot can do for you:
 
-- Is Spring MVC on the classpath? There are   several specific beans you almost always need,
+- Is Spring MVC on the classpath? There are   several specific beans you almost always   need,
 and Spring Boot adds them automatically. A Spring MVC application also needs a servlet
 container, so Spring Boot automatically configures embedded Tomcat.
 - Is Jetty on the classpath? If so, you probably do NOT want Tomcat but instead want
