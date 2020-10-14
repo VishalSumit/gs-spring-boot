@@ -111,7 +111,7 @@ include::complete/src/main/java/com/example/springboot/Application.java[]
 
 include::https://raw.githubusercontent.com/spring-guides/getting-started-macros/master/spring-boot-application-new-path.adoc[]
 
-There is also a `CommandLineRunner` method marked as a `@Bean`, and this runs on start up.
+There is also a `CommandLineRunner`# method marked as a `@Bean`, and this runs on start up.
 It retrieves all the beans that were created by your application or that were
 automatically added by Spring Boot. It sorts them and prints them out.
 
