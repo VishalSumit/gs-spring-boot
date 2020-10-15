@@ -24,7 +24,7 @@ include::https://raw.githubusercontent.com/spring-guides/getting-started-macros/
 
 include::https://raw.githubusercontent.com/spring-guides/getting-started-macros/master/how_to_complete_this_guide.adoc[]
 
-== Learn What You Can Do with Spring Boot
+== Learn What You Can Do with Spring  ### Boot
 
 Spring Boot offers a fast way to build applications. It looks at your classpath and at the
 beans you have configured, makes reasonable assumptions about what you are missing, and
